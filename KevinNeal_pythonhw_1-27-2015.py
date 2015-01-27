@@ -16,7 +16,7 @@ Tcount = my_dna.count("T")
 ATcontent = (Acount+Tcount)/len(my_dna)
 print(ATcontent)
 
-#printing complement of a sequence:
+#exercise: printing complement of a sequence:
 
 #my_dna_complement = my_dna.replace("ACGT","TGCA") #doesn't work, searches exact string. hmm...
 
