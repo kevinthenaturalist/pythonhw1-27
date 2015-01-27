@@ -2,6 +2,7 @@
 #homework: Python for Biologists examples on pp 38-40, due 1-27-2015
 
 from __future__ import division
+#use this to ensure python 2.7 knows how to do division
 
 #calculating AT content:
 #ACTGATCGATTACGTATAGTATTTGCTATCATACATATATATCGATGCGTTCAT
